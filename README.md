@@ -1,4 +1,4 @@
-$# UX Design and Evaluation - CS364 Course Project
+## UX Design and Evaluation - CS364 Course Project
 
 ## Project Overview
 This repository contains the work of our UX Design and Evaluation team project for the undergraduate course CS364. Our journey began with simple pencil mockups, evolving through various design stages to create both low-fidelity and high-fidelity designs.
@@ -13,14 +13,14 @@ This repository contains the work of our UX Design and Evaluation team project f
 At each stage of our design process, we conducted feedback listening sessions with our instructor. These sessions were crucial in guiding the evolution of our designs and ensuring they met the course objectives and user needs.
 
 ## Final Report
-The `Final_REPORT.pdf` file includes the findings from usability tests conducted with three participants. The report details the aspects of the system that were well-received and those that required changes.
+The `FINAL_REPORT_TEAM_11.pdf` file includes the findings from usability tests conducted with three participants. The report details the aspects of the system that were well-received and those that required changes.
 
 ### Key Findings
 - **User Feedback**: Summarizes the participants' opinions and experiences with the system.
 - **Recommended Changes**: Lists the potential improvements identified during the testing phase.
 
 ## Project Scope
-It is important to note that the scope of this project did not include implementing the changes suggested in the `Final_REPORT.pdf`. The primary goal was to design, evaluate, and document the UX process.
+It is important to note that the scope of this project did not include implementing the changes suggested in the `FINAL_REPORT_TEAM_11.pdf`. The primary goal was to design, evaluate, and document the UX process.
 
 ## Contributing
 While the project has concluded, any suggestions or feedback on our documentation and designs are welcome. Please feel free to open an issue or submit a pull request.
