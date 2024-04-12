@@ -21,4 +21,5 @@ It is important to note that the scope of this project did not include implement
 
 ## FInal Figma Prototype:
 Since sharing the Figma prototype isn’t possible, the attached GIF serves as a visual demonstration of its functionality.
+
 ![til](./5_FIGMA_PRESENTATION.gif)
