@@ -1,3 +1,3 @@
 # Bookapp-UX-Design-and-Evaluation
 
-![til](./FIGMA_PRESENTATION.gif)
+![til](./5_FIGMA_PRESENTATION.gif)
