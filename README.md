@@ -18,4 +18,6 @@ The `FINAL_REPORT_TEAM_11.pdf` file includes the findings from usability tests c
 ## Project Scope
 It is important to note that the scope of this project did not include implementing the changes suggested in the `FINAL_REPORT_TEAM_11.pdf`. The primary goal was to design, evaluate, and document the UX process.
 
+
+## Since sharing the Figma prototype isn’t possible, the attached GIF serves as a visual demonstration of its functionality:
 ![til](./5_FIGMA_PRESENTATION.gif)
